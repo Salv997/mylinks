@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: "work sans", sans-serif;
 }
+a{
+    text-decoration: none;
+    color: white;
+}
 body{
     position: fixed;
     padding-top: 3rem;
@@ -16,9 +20,6 @@ body{
 }
 span{
     font-weight: 800;
-}
-a{
-    text-decoration: none;
 }
 #vanta{
     z-index: -1;
