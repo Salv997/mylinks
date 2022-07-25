@@ -52,7 +52,8 @@ h1{
 .avatar img{
     width: 100px;
     position: absolute;
-    right: 5px;
+    top: -8px;
+    left: -3px;
 }
 .im{
     display: flex;
